@@ -1,4 +1,4 @@
-from Lattice import Graph
+from venv.src.Lattice import Graph
 from utilities import *
 
 if __name__ == '__main__':
